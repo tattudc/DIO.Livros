@@ -1,0 +1,13 @@
+/home/tatoedi/Área de Trabalho/Tarcisio/Workspace/estudosCSHARP/DIO.Livros/obj/Debug/netcoreapp3.1/DIO.Livros.csprojAssemblyReference.cache
+/home/tatoedi/Área de Trabalho/Tarcisio/Workspace/estudosCSHARP/DIO.Livros/obj/Debug/netcoreapp3.1/DIO.Livros.AssemblyInfoInputs.cache
+/home/tatoedi/Área de Trabalho/Tarcisio/Workspace/estudosCSHARP/DIO.Livros/obj/Debug/netcoreapp3.1/DIO.Livros.AssemblyInfo.cs
+/home/tatoedi/Área de Trabalho/Tarcisio/Workspace/estudosCSHARP/DIO.Livros/obj/Debug/netcoreapp3.1/DIO.Livros.csproj.CoreCompileInputs.cache
+/home/tatoedi/Área de Trabalho/Tarcisio/Workspace/estudosCSHARP/DIO.Livros/bin/Debug/netcoreapp3.1/DIO.Livros
+/home/tatoedi/Área de Trabalho/Tarcisio/Workspace/estudosCSHARP/DIO.Livros/bin/Debug/netcoreapp3.1/DIO.Livros.deps.json
+/home/tatoedi/Área de Trabalho/Tarcisio/Workspace/estudosCSHARP/DIO.Livros/bin/Debug/netcoreapp3.1/DIO.Livros.runtimeconfig.json
+/home/tatoedi/Área de Trabalho/Tarcisio/Workspace/estudosCSHARP/DIO.Livros/bin/Debug/netcoreapp3.1/DIO.Livros.runtimeconfig.dev.json
+/home/tatoedi/Área de Trabalho/Tarcisio/Workspace/estudosCSHARP/DIO.Livros/bin/Debug/netcoreapp3.1/DIO.Livros.dll
+/home/tatoedi/Área de Trabalho/Tarcisio/Workspace/estudosCSHARP/DIO.Livros/bin/Debug/netcoreapp3.1/DIO.Livros.pdb
+/home/tatoedi/Área de Trabalho/Tarcisio/Workspace/estudosCSHARP/DIO.Livros/obj/Debug/netcoreapp3.1/DIO.Livros.dll
+/home/tatoedi/Área de Trabalho/Tarcisio/Workspace/estudosCSHARP/DIO.Livros/obj/Debug/netcoreapp3.1/DIO.Livros.pdb
+/home/tatoedi/Área de Trabalho/Tarcisio/Workspace/estudosCSHARP/DIO.Livros/obj/Debug/netcoreapp3.1/DIO.Livros.genruntimeconfig.cache
